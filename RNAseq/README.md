@@ -1,4 +1,4 @@
-# RNA-seq analysis
+# RNA-seq analysis - differential expression
 
 Working as the main analyst of RNA-seq data in CEGH-USP (2022-), I gathered current information in the area to guide researchers through the steps of the analysis.
 
@@ -8,4 +8,8 @@ Codes here are wild cards.
 
 ## Order of processes:
 
-1. Quality control
+1. Quality control (FASTQC)
+2. Preprocessing
+3. Alignment/mapping
+4. Quantification
+5. DEGs
