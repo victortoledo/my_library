@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#### Quality control RNAseq (FastQC) ####
+#### 1. Quality control RNAseq (FastQC) ####
 
 ## Access folder with raw data
 
